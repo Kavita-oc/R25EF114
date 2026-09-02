@@ -3,5 +3,5 @@ Name: Kavitha
 BTech CSE
 Activity 3-Portfolio Building
 Skill: Learning Java
-interest: cloud computing\n
+interest: cloud computing
 Goal: contribute to open source
